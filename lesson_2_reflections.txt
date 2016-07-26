@@ -1,0 +1,4 @@
+What happens when you initialize a repository? Why do you need to do it?
+	
+	It creates and empty git folder, in that folder the versions created by de commits will be saved. Without it changes wont be saved
+	
