@@ -2,3 +2,6 @@ What happens when you initialize a repository? Why do you need to do it?
 	
 	It creates and empty git folder, in that folder the versions created by de commits will be saved. Without it changes wont be saved
 	
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+	
+	It offers a moment in wich there may not be changes but you know you will begin to make them.
