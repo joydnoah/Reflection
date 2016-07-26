@@ -14,5 +14,7 @@ What are some situations when branches would be helpful in keeping your history 
 
 	They help when you wanna have different versions of one project that are functional but different in some ways. Also helps in adding new features.
 	
+How do the diagrams help you visualize the branch structure?
 
+	It help to get and idea of how is the proyect moving between the branches
 	
