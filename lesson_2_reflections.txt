@@ -9,3 +9,10 @@ How is the staging area different from the working directory and the repository?
 How can you use the staging area to make sure you have one commit per logical change?
 	
 	You use diff with the working area, doing this should show you the changes and you can see if there is more than one logical change.
+	
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+	They help when you wanna have different versions of one project that are functional but different in some ways. Also helps in adding new features.
+	
+
+	
