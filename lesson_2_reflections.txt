@@ -18,3 +18,7 @@ How do the diagrams help you visualize the branch structure?
 
 	It help to get and idea of how is the proyect moving between the branches
 	
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+	The result is mergin the codes changes of both branches.
+	
